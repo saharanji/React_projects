@@ -1,0 +1,30 @@
+.render_data_Linen{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:14px;
+    /* border: 1px solid red; */
+    width: 100%;
+    margin: auto;
+    
+
+}
+
+.Main_linen_tri{
+    width: 90vw;
+    /* border: 1px solid blue; */
+    margin: auto;
+    margin-top: 2%;
+}
+
+.Linen_image{
+    width: 100%
+}
+
+.span_div {
+    display: flex;
+    justify-content: space-between;
+}
+.cart-price{
+    color: gray;
+    justify-content: space-between;
+}
